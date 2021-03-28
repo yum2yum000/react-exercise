@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snap shot 1`] = `
+<table
+  className="table table-sm table-striped table-bordered table-hover"
+>
+  <thead>
+    <tr>
+      <th>
+        <img
+          alt="de"
+          className="cursor-pointer"
+          data-testid="sort-id"
+          src="sort.svg"
+          width="20"
+        />
+      </th>
+      <th>
+        title   
+        <img
+          alt="st"
+          className="cursor-pointer"
+          data-testid="sort-asc"
+          src="sort.svg"
+          width="20"
+        />
+        <input
+          data-testid="search"
+        />
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    data-testid="data-list"
+  >
+    <tr>
+      <td
+        data-testid="id-2"
+      >
+        2
+      </td>
+      <td
+        data-testid="title-2"
+      >
+        nothing
+      </td>
+    </tr>
+    <tr>
+      <td
+        data-testid="id-3"
+      >
+        3
+      </td>
+      <td
+        data-testid="title-3"
+      >
+        thing
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

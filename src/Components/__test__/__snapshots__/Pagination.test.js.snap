@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snap shot 1`] = `
+<nav>
+  <ul
+    className="pagination justify-content-center"
+    data-testid="page"
+  >
+    
+    <li
+      className="page-item"
+      data-testid="page-1"
+    >
+      <span
+        className="page-current"
+        data-testid="currentPage-1"
+        onClick={[Function]}
+      >
+        1
+      </span>
+    </li>
+    <li
+      className="page-item"
+      data-testid="page-2"
+    >
+      <span
+        className="page-link"
+        data-testid="currentPage-2"
+        onClick={[Function]}
+      >
+        2
+      </span>
+    </li>
+    <li
+      className="page-item"
+    >
+      <span
+        className="page-link"
+        data-testid="next"
+        onClick={[Function]}
+      >
+        Next
+      </span>
+    </li>
+  </ul>
+</nav>
+`;
